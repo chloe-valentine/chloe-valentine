@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chloe-valentine
-- 👀 I’m interested in HTML, CSS, javascript, python and sql!...
-- 🌱 I’m currently learning the fundamentals of cybersecurity on Microsoft Learning plus teaching myself javascript via freecodecamp!
-- 💞️ I’m looking to collaborate on nothing at the moment! DM me if you're interested or if you're looking for a teammate! 
+- 👀 I'm a current student at CCT College Ireland, studying networking and system security. 
+- 🌱 I’m currently studying for the Microsoft Cybersecurity Architect exam.
+- 🤙🏻 Currently a mentee on Women In Cybersecurity (WiCyS) group along with Women 4 Cyber Mentorship Program
+- 💞️ I'm open to any opensource projects on Linux, as it's a current interest of mine plus I just like juggling multiple projects.
 - 📫 You can reach me on my linkedin: https://www.linkedin.com/in/aisling-sheridan-/ 
 
 <!---
